@@ -23,8 +23,8 @@ A modern and secure Flutter application that provides user authentication functi
 #### 🏠 Home Dashboard  
 [![Home Screen](ss.jpg)](ss.jpg)
 
-#### 🌍 Country Picker  
-[![Country Selection](ss4.jpg)](ss4.jpg)
+#### 🌍 Welcome Screen  
+[![Welcome Screen](ss4.jpg)](ss4.jpg)
 
 ---
 
