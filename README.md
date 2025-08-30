@@ -15,13 +15,13 @@ A modern and secure Flutter application that provides user authentication functi
 ## 📸 Screenshots
 
 #### 🔐 Login Screen  
-[![Login Screen](ss.jpg)](ss.jpg)
+[![Login Screen](ss3.jpg)](ss3.jpg)
 
 #### 📝 Signup Screen  
 [![Signup Screen](ss1.jpg)](ss1.jpg)
 
 #### 🏠 Home Dashboard  
-[![Home Screen](ss3.jpg)](ss3.jpg)
+[![Home Screen](ss.jpg)](ss.jpg)
 
 #### 🌍 Country Picker  
 [![Country Selection](ss4.jpg)](ss4.jpg)
